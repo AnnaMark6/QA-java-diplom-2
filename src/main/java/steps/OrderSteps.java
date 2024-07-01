@@ -1,4 +1,4 @@
-package ordertests;
+package steps;
 
 import static config.UriConstants.*;
 import static org.hamcrest.CoreMatchers.notNullValue;
@@ -10,7 +10,6 @@ import io.restassured.RestAssured;
 import io.restassured.response.ValidatableResponse;
 import model.Order;
 import model.User;
-import usertests.UserSteps;
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package usertests;
+package steps;
 
 import static config.UriConstants.*;
 import io.qameta.allure.Step;

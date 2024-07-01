@@ -2,8 +2,8 @@ package ordertests;
 
 import model.User;
 import org.apache.commons.lang3.RandomStringUtils;
-import org.junit.Assert;
-import usertests.UserSteps;
+import steps.OrderSteps;
+import steps.UserSteps;
 import io.qameta.allure.internal.shadowed.jackson.core.JsonProcessingException;
 import io.qameta.allure.junit4.DisplayName;
 import org.junit.After;
